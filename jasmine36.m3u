@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:- NETFLIX
+
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240161
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240162
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240163
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240164
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240165
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240166
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240167
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240168
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 9
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240169
+#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="DE| NETFLIX",|DE| TV Netflix 10
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240170
