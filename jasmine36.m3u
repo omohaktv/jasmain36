@@ -1,33 +1,132 @@
 #EXTM3U
 #EXTINF:- NETFLIX
 
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240161
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240162
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240163
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240164
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240165
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240166
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240167
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 8
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240168
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NETFLIX/NETFLEX-MOVIES.png" group-title="DE| NETFLIX",|DE| TV Netflix 9
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240169
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="DE| NETFLIX",|DE| TV Netflix 10
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/240170
+#EXTM3U
+#EXTINF:-1,☘☘☘---NETFLIX OMOHAKTV ---☘☘☘
+http://aumaletv.com:25461/omohack651651@/omo4478663/39188
+#EXTINF:-1,NETFLIX AFLAM ARABIC 1
+http://aumaletv.com:25461/omohack651651@/omo4478663/54413
+#EXTINF:-1,NETFLIX MOVIES ARABIC 1
+http://aumaletv.com:25461/omohack651651@/omo4478663/54414
+#EXTINF:-1,NETFLIX MOVIES ARABIC 2
+http://aumaletv.com:25461/omohack651651@/omo4478663/54415
+#EXTINF:-1,NETFLIX MOVIES ARABIC 3
+http://aumaletv.com:25461/omohack651651@/omo4478663/54416
+#EXTINF:-1,NETFLIX MOVIES ARABIC 5
+http://aumaletv.com:25461/omohack651651@/omo4478663/54418
+#EXTINF:-1,NETFLIX MOVIES ARABIC 6
+http://aumaletv.com:25461/omohack651651@/omo4478663/54419
+#EXTINF:-1,NETFLIX MOVIES ARABIC 7
+http://aumaletv.com:25461/omohack651651@/omo4478663/54420
+#EXTINF:-1,|AR.NETFLIX| ACTION 3
+http://aumaletv.com:25461/omohack651651@/omo4478663/59769
+#EXTINF:-1,|AR.NETFLIX| ACTION 4
+http://aumaletv.com:25461/omohack651651@/omo4478663/59770
+#EXTINF:-1,|AR.NETFLIX| ACTION 5
+http://aumaletv.com:25461/omohack651651@/omo4478663/59771
+#EXTINF:-1,|AR.NETFLIX| ACTION 6
+http://aumaletv.com:25461/omohack651651@/omo4478663/59772
+#EXTINF:-1,|AR.NETFLIX| ACTION 9
+http://aumaletv.com:25461/omohack651651@/omo4478663/59775
+#EXTINF:-1,|AR.NETFLIX| ACTION 11 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59777
+#EXTINF:-1,AR.NETFLIX| ACTION 13 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59778
+#EXTINF:-1,|AR.NETFLIX| ACTION 2+ HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59779
+#EXTINF:-1,|AR.NETFLIX| ACTION 3+ HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59780
+#EXTINF:-1,|AR.NETFLIX| S-FICTION 1+ HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59782
+#EXTINF:-1,|AR.NETFLIX| HORROR HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59783
+#EXTINF:-1,|AR.NETFLIX| COMEDY 1 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59784
+#EXTINF:-1,|AR.NETFLIX| COMEDY 2 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59785
+#EXTINF:-1,|AR.NETFLIX| COMEDY 3 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59786
+#EXTINF:-1,|AR.NETFLIX| COMEDY 5 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59788
+#EXTINF:-1,|AR.NETFLIX| COMEDY 1 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59790
+#EXTINF:-1,|AR.NETFLIX| MOVIES 1 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59791
+#EXTINF:-1,|AR.NETFLIX| MOVIES 2 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59792
+#EXTINF:-1,|AR.NETFLIX| CLASSIC HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/59793
+#EXTINF:-1,ELATTAR NETFLIX 1 EN
+http://aumaletv.com:25461/omohack651651@/omo4478663/59795
+#EXTINF:-1,AR: Aumale Netflix Aflam 1*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59796
+#EXTINF:-1,AR: Aumale Netflix Aflam 2*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59797
+#EXTINF:-1,AR: Aumale Netflix Aflam 3*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59798
+#EXTINF:-1,AR: Aumale Netflix Cinema 1*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59799
+#EXTINF:-1,AR: Aumale Netflix Cinema 2*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59800
+#EXTINF:-1,AR: Aumale Netflix Cinema 3*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59801
+#EXTINF:-1,AR: Aumale Netflix Movies 1*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59802
+#EXTINF:-1,AR: Aumale Netflix Movies 2*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59803
+#EXTINF:-1,AR: Aumale Netflix Movies 3*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59804
+#EXTINF:-1,AR: Aumale Netflix Kids1 A*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59805
+#EXTINF:-1,AR: Aumale Netflix Kids1 B*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59806
+#EXTINF:-1,AR: Aumale Netflix Kids1 C*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59807
+#EXTINF:-1,AR: Aumale Netflix Kids2 A*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59808
+#EXTINF:-1,AR: Aumale Netflix Kids2 B*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59809
+#EXTINF:-1,AR: Aumale Netflix Kids2 C*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59810
+#EXTINF:-1,AR: Aumale Netflix Action ENG*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59811
+#EXTINF:-1,AR: Aumale Netflix Annimation ENG*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59812
+#EXTINF:-1,AR: Aumale Netflix BOXOFFICE ENG*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59813
+#EXTINF:-1,AR: Aumale Netflix Comedy ENG*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59814
+#EXTINF:-1,AR: Aumale Netflix Drama ENG*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59815
+#EXTINF:-1,AR: Aumale Netflix Horror ENG*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59816
+#EXTINF:-1,AR: Aumale Netflix Kids ENG*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59817
+#EXTINF:-1,AR: Aumale Netflix ROMANCE ENG*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59818
+#EXTINF:-1,AR: Aumale Netflix SCI-FI ENG*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59819
+#EXTINF:-1,AR: Aumale Netflix THRILLER ENG*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59820
+#EXTINF:-1,AR: Aumale Netflix WESTERN ENG*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59822
+#EXTINF:-1,AR: Aumale NETFLIX Action*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59823
+#EXTINF:-1,AR: Aumale NETFLIX BOLLYWOOD*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59824
+#EXTINF:-1,AR: Aumale NETFLIX CLASSICS*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59825
+#EXTINF:-1,AR: Aumale NETFLIX Comedy*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59826
+#EXTINF:-1,AR: Aumale NETFLIX Discovery*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59827
+#EXTINF:-1,AR: Aumale NETFLIX DRAMA
+http://aumaletv.com:25461/omohack651651@/omo4478663/59828
+#EXTINF:-1,AR: Aumale NETFLIX Horror*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59829
+#EXTINF:-1,AR: Aumale NETFLIX KIDS1*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59830
+#EXTINF:-1,AR: Aumale NETFLIX Aflam ᴴᴰ*
+http://aumaletv.com:25461/omohack651651@/omo4478663/59831
+#EXTINF:-1,AR: MyHD NETFLIX ACTION
+http://aumaletv.com:25461/omohack651651@/omo4478663/49504
